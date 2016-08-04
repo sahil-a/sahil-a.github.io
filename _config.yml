@@ -1,6 +1,6 @@
 ---
-title: The Plain
-timezone: Asia/Kuala_Lumpur
+title: Sahil Ambardekar
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -23,13 +23,12 @@ defaults:
     type: posts
   values:
     layout: post
-description: The Plain is a Minimalist Jekyll theme that focuses on writing matters.
+description: My Blog
 google_verify: epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o
 google_analytics: UA-XXXXXXX-X
 author_name: Heiswayi Nrird
-author_email: hnrird@gmail.com
+author_email: ambardekarsahil@gmail.com
 author_gravatar: 2b38b1b0e7e08b69379bd61582adf0c8
-twitter_username: HeiswayiNrird
 baseurl: ''
 permalink: "/notes/:title"
 highlighter: rouge
