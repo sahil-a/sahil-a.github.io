@@ -1,6 +1,6 @@
 ---
 title: Markdown Cheatsheet Demo
-date: 2015-09-04 00:00:00 +08:00
+date: 2015-09-03 16:00:00 Z
 updated: 2015-09-04 22:43
 ---
 
