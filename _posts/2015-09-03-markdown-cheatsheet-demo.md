@@ -58,6 +58,11 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 ```swift
 var s = "Swift syntax highlighting"
 alert(s)
+func foo(numbers: [Int]) -> ((Int) -> Void) {
+    return { num in 
+        num = num + 1
+    }
+}
 ```
 
 ```python
